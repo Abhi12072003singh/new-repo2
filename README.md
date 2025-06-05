@@ -1,4 +1,4 @@
 # new project
 
-this is my new repo created in local machine
+this is my new repo created in local machine.
 
